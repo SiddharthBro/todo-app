@@ -1,12 +1,12 @@
-# To-Do App (DOM & Events)
+# To-Do App with Local Storage
 
-A simple dynamic To-Do application built using pure JavaScript.
+A dynamic To-Do application built using pure JavaScript.
 
 ## Features
-- Add tasks dynamically using DOM
+- Add tasks using DOM manipulation
 - Event handling (click & keyboard)
-- Input validation
-- No external libraries
+- Tasks saved in localStorage
+- Data persists after page refresh
 
 ## How to Run
 Open index.html in any browser.
